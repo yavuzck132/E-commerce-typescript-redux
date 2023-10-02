@@ -1,0 +1,123 @@
+{
+   "items": [
+    {
+        "name": "Blue shirt",
+        "price": 30,
+        "rating": 4,
+        "criteria": "shirt",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Red shirt",
+        "price": 35,
+        "rating": 4.5,
+        "criteria": "shirt",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "White shirt",
+        "price": 40,
+        "rating": 3,
+        "criteria": "shirt",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Luxury shirt",
+        "price": 300,
+        "rating": 5,
+        "criteria": "shirt",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Blue t-shirt",
+        "price": 15,
+        "rating": 4,
+        "criteria": "t-shirt",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Red t-shirt",
+        "price": 20,
+        "rating": 4,
+        "criteria": "t-shirt",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "White t-shirt",
+        "price": 15,
+        "rating": 4,
+        "criteria": "t-shirt",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Adidas t-shirt",
+        "price": 100,
+        "rating": 3.2,
+        "criteria": "t-shirt",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Black jeans",
+        "price": 50,
+        "rating": 4.4,
+        "criteria": "jeans",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Blue jeans",
+        "price": 50,
+        "rating": 4.6,
+        "criteria": "jeans",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "White jeans",
+        "price": 60,
+        "rating": 4.2,
+        "criteria": "jeans",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Tommy-kay jeans",
+        "price": 600,
+        "rating": 4.8,
+        "criteria": "jeans",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Black sports shoes",
+        "price": 100,
+        "rating": 4.8,
+        "criteria": "shoes",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Blue sports shoes",
+        "price": 90,
+        "rating": 2.5,
+        "criteria": "shoes",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "White sports shoes",
+        "price": 100,
+        "rating": 4.5,
+        "criteria": "shoes",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Nike black shoes",
+        "price": 650,
+        "rating": 5,
+        "criteria": "shoes",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    },
+    {
+        "name": "Nike white shoes",
+        "price": 650,
+        "rating": 5,
+        "criteria": "shoes",
+        "image": "https://media.glamour.com/photos/63cb17760c94f6a86c1097d7/16:9/w_3487,h_1961,c_limit/baby%20clothes.png"
+    }
+   ] 
+}
