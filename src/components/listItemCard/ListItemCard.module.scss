@@ -1,0 +1,29 @@
+.cardBody{
+    position: relative;
+    background-color: white;
+    margin: 10px;
+    width: 267px;
+    border:1px solid black;
+    border-radius: 6px;
+    &:hover{
+        cursor: pointer;
+    }
+    .cardContent{
+        padding: 0px 10px 10px 10px;
+        h2{
+            margin: 0px;
+        }
+        p{
+            margin: 0px;
+        }
+    }
+    .imageArea{
+        width: 267px;
+        height: 150px;
+        img{
+            position: absolute;
+            top: 0;
+            max-width: 267px;
+        }
+    }
+}
